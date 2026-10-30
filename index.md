@@ -56,6 +56,8 @@ Created this professional e-portfolio using GitHub Pages, Markdown, and the Mini
 - Used Git and GitHub to manage files and publish changes.
 - Applied Markdown formatting to organize professional and academic information.
 
+[Read my complete guide to building this e-portfolio](/portfolio-guide/)
+
 ## Skills
 
 ### Financial and Analytical Skills
